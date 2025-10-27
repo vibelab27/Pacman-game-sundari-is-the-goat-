@@ -1,2 +1,2 @@
-# Pacman-game-sundari-is-the-goat-
+# Pacman-game-sundari-is-the-worst
 nice game
